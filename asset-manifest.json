@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "https://prodev00.github.io/pwa-inzio/static/css/main.d017e217.css",
-    "main.js": "https://prodev00.github.io/pwa-inzio/static/js/main.647ec7c1.js",
+    "main.js": "https://prodev00.github.io/pwa-inzio/static/js/main.e5c7f08b.js",
     "static/js/787.df3949c2.chunk.js": "https://prodev00.github.io/pwa-inzio/static/js/787.df3949c2.chunk.js",
     "service-worker.js": "https://prodev00.github.io/pwa-inzio/service-worker.js",
     "static/media/logo.svg": "https://prodev00.github.io/pwa-inzio/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "index.html": "https://prodev00.github.io/pwa-inzio/index.html",
     "main.d017e217.css.map": "https://prodev00.github.io/pwa-inzio/static/css/main.d017e217.css.map",
-    "main.647ec7c1.js.map": "https://prodev00.github.io/pwa-inzio/static/js/main.647ec7c1.js.map",
+    "main.e5c7f08b.js.map": "https://prodev00.github.io/pwa-inzio/static/js/main.e5c7f08b.js.map",
     "787.df3949c2.chunk.js.map": "https://prodev00.github.io/pwa-inzio/static/js/787.df3949c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d017e217.css",
-    "static/js/main.647ec7c1.js"
+    "static/js/main.e5c7f08b.js"
   ]
 }
